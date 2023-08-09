@@ -1,0 +1,47 @@
+Data Structures are different ways of storing data that can be used effectively
+Alag alag data ko store karne ke treeke taki ham data ko asaani se fetch aur modify kar sake
+
+algorith step by step treeka hota hai kisi bhi problem ko solve karne ka
+
+what makes a good algorithm?
+1.Correctness
+2.Efficiency
+
+DSA kyu important hai
+to make process efficient ham dsa use krte hai
+if data is organized we can easily perform task on it efficiently
+
+Types of data structures
+primitive:int float char boolean
+
+non primitive:derieved from primitive
+linear  
+  static array
+  dynamic LL,stack,queue
+non linear 
+  tree
+  graph
+
+
+Types of algorithms
+recursive
+Divide and conquer algorithms eg quick and merge sort
+
+Dynamic Programming Algorithm
+it work based on memoization
+to find the best solution
+
+Greedy algorithm
+we find the best
+it work in phases 
+we hope that by choosing a locl optimal solution at each step we will end up at global optimal solution
+
+BruteForce algorithm
+tries all options/possibilities untill a possible solution is received
+
+
+Randomized algorithm
+uses random numbr atleast once during the computation to complete the probem
+
+
+
